@@ -1020,11 +1020,11 @@ def infoattack():
     stdout.write("             "+Fore.LIGHTGREEN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"layer4   "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" Show Layer4 Methods                    "+Fore.LIGHTGREEN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"tools    "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" Show tools                             "+Fore.LIGHTGREEN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"credit   "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" Show credit                            "+Fore.LIGHTGREEN_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTGREEN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"exit     "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" Exit HASOKI DDoS                       "+Fore.LIGHTGREEN_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTGREEN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"exit     "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" Exit OneHiT DDoS                       "+Fore.LIGHTGREEN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX            +"╠═════════════════════════════════════════════════════╣\n")
-    stdout.write("             "+Fore.LIGHTGREEN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"THANK    "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" Thanks for using HASOKI.                "+Fore.LIGHTGREEN_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTGREEN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"THANK    "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" Thanks for using OneHiT.                "+Fore.LIGHTGREEN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"YOU♥     "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" Plz star project :)                    "+Fore.LIGHTGREEN_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTGREEN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"github   "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" github.com/cutipu/HASOKI               "+Fore.LIGHTGREEN_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTGREEN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"github   "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" github.com/NgThanhVinh                 "+Fore.LIGHTGREEN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX            +"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 ##############################################################################################
@@ -1055,7 +1055,6 @@ def layer7():
     stdout.write("             "+Fore.LIGHTGREEN_EX            +"║ \x1b[38;2;255;20;147m•   "+Fore.LIGHTWHITE_EX+"bypass"+Fore.LIGHTGREEN_EX+"   |"+Fore.LIGHTWHITE_EX+" Bypass Google Project Shield, Vshield,    "+Fore.LIGHTGREEN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX            +"║ \x1b[38;2;255;20;147m•   "+Fore.LIGHTWHITE_EX+"sky   "+Fore.LIGHTGREEN_EX+"   |"+Fore.LIGHTWHITE_EX+" DDoS Guard Free, CF NoSec                 "+Fore.LIGHTGREEN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX            +"║ \x1b[38;2;255;20;147m•   "+Fore.LIGHTWHITE_EX+"stellar"+Fore.LIGHTGREEN_EX+"  |"+Fore.LIGHTWHITE_EX+" HTTPS Sky method without proxies          "+Fore.LIGHTGREEN_EX+"║\n")
-    
     stdout.write("             "+Fore.LIGHTGREEN_EX            +"║ \x1b[38;2;255;20;147m•   "+Fore.LIGHTWHITE_EX+"stress  "+Fore.LIGHTGREEN_EX+" |"+Fore.LIGHTWHITE_EX+" DDos stress HEX method                    "+Fore.LIGHTGREEN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX            +"║ \x1b[38;2;255;20;147m•   "+Fore.LIGHTWHITE_EX+"get   "+Fore.LIGHTGREEN_EX+"   |"+Fore.LIGHTWHITE_EX+" Get Request Attack                        "+Fore.LIGHTGREEN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX            +"║ \x1b[38;2;255;20;147m•   "+Fore.LIGHTWHITE_EX+"post  "+Fore.LIGHTGREEN_EX+"   |"+Fore.LIGHTWHITE_EX+" Post Request Attack                       "+Fore.LIGHTGREEN_EX+"║\n")
