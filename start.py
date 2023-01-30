@@ -1109,7 +1109,7 @@ def tools():
 ##############################################################################################
 def title():
     stdout.write("                                                                                          \n")
-    stdout.write("                   "+Fore.LIGHTWHITE_EX  +     ███████    ██████   █████ ██████████ █████   █████ █████ ███████████                 \n")
+    stdout.write("                   "+Fore.LIGHTWHITE_EX  +"    ███████    ██████   █████ ██████████ █████   █████ █████ ███████████                 \n")
     stdout.write("                   "+Fore.LIGHTGREEN_EX  +"  ███░░░░░███ ░░██████ ░░███ ░░███░░░░░█░░███   ░░███ ░░███ ░█░░░███░░░█                 \n")
     stdout.write("                   "+Fore.LIGHTGREEN_EX  +" ███     ░░███ ░███░███ ░███  ░███  █ ░  ░███    ░███  ░███ ░   ░███  ░                 \n")
     stdout.write("                   "+Fore.LIGHTGREEN_EX  +"░███      ░███ ░███░░███░███  ░██████    ░███████████  ░███     ░███                    \n")
@@ -1118,7 +1118,7 @@ def title():
     stdout.write("                   "+Fore.LIGHTGREEN_EX  +" ░░░███████░   █████  ░░█████ ██████████ █████   █████ █████    █████                   \n")
     stdout.write("                   "+Fore.LIGHTGREEN_EX  +"    ░░░░░░░    ░░░░░    ░░░░░ ░░░░░░░░░░ ░░░░░   ░░░░░ ░░░░░    ░░░░░                   \n")
     stdout.write("             "+Fore.LIGHTGREEN_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")                           
-    stdout.write("             "+Fore.LIGHTGREEN_EX            +"        ══╦═════════════════════════════════╦══\n")
+    stdout.write("             "+Fore.LIGHTGREEN_EX+"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTGREEN_EX+"║ "+Fore.LIGHTWHITE_EX   +"       ADMIN: NgThanhVinh           "+Fore.LIGHTGREEN_EX  +"          ║\n")
